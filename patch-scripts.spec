@@ -1,5 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Collection of scripts for managing patches
+Summary(pl):	Zestaw skryptów do zarz±dzania ³atami
 Name:		patch-scripts
 Version:	0.18
 Release:	1
@@ -14,7 +15,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Collection of scripts for managing patches (used for example for
-kernel patches managment).
+kernel patches management).
+
+%description -l pl
+Zestaw skryptów do zarz±dzania ³atami (u¿ywany na przyk³ad przy
+zarz±dzaniu ³atami na j±dro).
 
 %prep
 %setup -q -n %{name}
