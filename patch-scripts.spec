@@ -2,12 +2,12 @@
 Summary:	Collection of scripts for managing patches
 Summary(pl):	Zestaw skryptów do zarz±dzania ³atami
 Name:		patch-scripts
-Version:	0.18
+Version:	0.20
 Release:	1
 License:	GPL
 Group:		Applications/Text
 Source0:	http://www.zip.com.au/~akpm/linux/patches/%{name}-%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	0987804e9486ddc1bb73bed78eedc5dc
+# Source0-md5:	a74650ccd565148b92dae8dd402afd3b
 URL:		http://www.zip.com.au/~akpm/linux/patches
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
