@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Collection of scripts for managing patches
-Summary(pl.UTF-8):   Zestaw skryptów do zarządzania łatami
+Summary(pl.UTF-8):	Zestaw skryptów do zarządzania łatami
 Name:		patch-scripts
 Version:	0.20
 Release:	1
